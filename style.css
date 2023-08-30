@@ -1,0 +1,44 @@
+img{
+    width: 220px;
+}
+.card-header{
+    background-color: rgb(5, 5, 5);
+    color: white;
+    font-weight: 300;
+    font-size: 25px ;
+    text-align: center;
+}
+body{
+    /* background-color: #c1c1c1; */
+    background-image: url('https://cdn.pixabay.com/photo/2016/04/11/10/02/watercolour-1321645_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size:50% 50%;
+    background-size:cover;
+}
+.card-body{
+    text-align: center;
+    background-image: linear-gradient(to right, #e4e4e4 0%, #2b3337 100%);
+    margin-bottom: 0px;
+}
+.card-img-top{
+    width: 80%;
+    height: 180px;
+}
+.col-sm-6.col-md-4.col-lg-4.col-xl-4{
+    margin-bottom: 25px;
+}
+.card-text{
+    text-align: center;
+}
+.p-text{
+    color: white;
+}
+button{
+    align-items: center;
+}
+
+.btn{
+  color: white;
+  background-color: transparent;
+  
+}
